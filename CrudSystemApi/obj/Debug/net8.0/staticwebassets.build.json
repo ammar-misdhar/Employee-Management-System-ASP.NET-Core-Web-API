@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "tDzq75PzhyxrSMJdcDFyDx0lEwvoafwBFwoNYiLkmoM=",
+  "Source": "CrudSystemApi",
+  "BasePath": "_content/CrudSystemApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
